@@ -7,4 +7,4 @@ def ask_player_action() -> str:
                 flage = False
     return choice
 
-print()
+# print()
