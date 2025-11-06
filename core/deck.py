@@ -86,6 +86,20 @@ def shuffle_by_suit(deck: list[dict], swaps: int = 5000) -> list[dict]:
 
 
 
+# def card():
+#     pack = []
+#     num = [2, 3, 4, 5, 6, 7, 8, 9,10,"J","Q","K","A"]
+#     type1 = ["h", "c", "d", "s"]
+#     for i in num:
+#         for y in type1:
+#             type1 = ["h","c","d","s"]
+#             dic = {"rank":str(i),"suite":y}
+#             pack.append(dic)
+#
+#     return pack
+#
+# a = card()
+# print(a)
 
 
 
